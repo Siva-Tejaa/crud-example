@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+/* -------------------------------------------------------------------- */
+.big-card {
+  background-color: #e7d5bd;
+  margin-left: 8cm;
+  margin-right: 8cm;
+}
+.form-tab {
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+  padding-left: 3cm;
+  padding-right: 3cm;
+}
+
+label {
+  display: block;
+  color: #7d7d7d;
+}
+
+.floatBlock {
+  margin: 0 1.81em 0 0;
+}
+
+.GenderOptions {
+  display: flex;
+}
